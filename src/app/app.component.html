@@ -1,1 +1,10 @@
-<h1>Hello World</h1>
+<header class="header">
+  <h1 class="header__title">{{ title }}</h1>
+</header>
+<ul class="contact-list">
+  <app-contact-item
+    *ngFor="let contact of contacts | async"
+    [contact]="contact"
+  >
+  </app-contact-item>
+</ul>

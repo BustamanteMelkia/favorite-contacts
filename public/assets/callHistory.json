@@ -1,0 +1,15 @@
+[
+  { "id": 1, "contactId": 1, "firstName": "Laura", "lastName": "García", "calledAt": 1746301293 },
+  { "id": 2, "contactId": 2, "firstName": "Miguel", "lastName": "Torres", "calledAt": 1746214893 },
+  { "id": 3, "contactId": 1, "firstName": "Laura", "lastName": "García", "calledAt": 1746128493 },
+  { "id": 4, "contactId": 3, "firstName": "Ana", "lastName": "Ruiz", "calledAt": 1743536493 },
+  { "id": 5, "contactId": 2, "firstName": "Miguel", "lastName": "Torres", "calledAt": 1712064000 },
+  { "id": 6, "contactId": 1, "firstName": "Laura", "lastName": "García", "calledAt": 1745264493 },
+  { "id": 7, "contactId": 1, "firstName": "Laura", "lastName": "García", "calledAt": 1746992493 },
+  { "id": 8, "contactId": 2, "firstName": "Miguel", "lastName": "Torres", "calledAt": 1712236800 },
+  { "id": 9, "contactId": 3, "firstName": "Ana", "lastName": "Ruiz", "calledAt": 1746131493 },
+  { "id": 10, "contactId": 3, "firstName": "Ana", "lastName": "Ruiz", "calledAt": 1746992493 },
+  { "id": 11, "contactId": 3, "firstName": "Ana", "lastName": "Ruiz", "calledAt": 1747115999 },
+  { "id": 12, "contactId": 4, "firstName": "Sofía", "lastName": "Martínez", "calledAt": 1746822693 },
+  { "id": 13, "contactId": 4, "firstName": "Sofía", "lastName": "Martínez", "calledAt": 1710537600 }
+]

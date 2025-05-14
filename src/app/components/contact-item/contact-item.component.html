@@ -1,0 +1,7 @@
+<li *ngIf="contact" class="contact">
+  <h3 class="contact__name">
+    {{ contact.firstName }}
+    <span class="contact__name--highlighted">{{ contact.lastName }}</span>
+  </h3>
+  <span class="contact__time">{{ contact.lastCall || 0 | daysSince }}</span>
+</li>
