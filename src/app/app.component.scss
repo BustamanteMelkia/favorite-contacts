@@ -1,0 +1,19 @@
+@import "variables.scss";
+.header {
+  background-color: $primary-color;
+  margin-bottom: 32px;
+  &__title {
+    color: $color-light;
+    font-size: 28px;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+    padding: 16px 0;
+  }
+}
+
+.contact-list {
+  margin: 0;
+  padding: 0px 24px;
+  list-style: none;
+}

@@ -1,0 +1,19 @@
+@import 'variables.scss';
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid $border-color;
+    &__name {
+        font-size: 18px;
+        font-weight: 500;
+        &--highlighted {
+            font-weight: 700;
+        }
+    }
+    &__time {
+        font-size: 16px;
+    }
+}
